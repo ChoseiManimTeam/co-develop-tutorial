@@ -5,9 +5,7 @@ class CreateSquare(Scene):
         square = Square()
         createAnim1 = Create(square)
         self.play(createAnim1)
-
-        self.wait(2)
-
+        
         circle = Circle()
         createAnim2 = Create(circle)
         self.play(createAnim2)
