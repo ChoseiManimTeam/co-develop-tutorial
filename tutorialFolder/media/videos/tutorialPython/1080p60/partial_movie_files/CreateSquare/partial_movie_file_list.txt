@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/kubot/Documents/GitHub/co-develop-tutorial/tutorialFolder/media/videos/tutorialPython/1080p60/partial_movie_files/CreateSquare/3977891868_1394511312_223132457.mp4'
+file 'file:C:/Users/kubot/Documents/GitHub/co-develop-tutorial/tutorialFolder/media/videos/tutorialPython/1080p60/partial_movie_files/CreateSquare/2852726489_1330206591_1468040226.mp4'
