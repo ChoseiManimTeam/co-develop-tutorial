@@ -10,4 +10,4 @@ class CreateSquare(Scene):
         createAnim2 = Create(circle)
         self.play(createAnim2)
 
-        self.wait(2)
+        self.wait(1.5)
